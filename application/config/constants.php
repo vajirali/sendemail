@@ -49,7 +49,7 @@ define('SMTP_TYPE_SECURE', 'ssl');
 define('SMTP_PORT', 465);
 
 
-define('MAIL_TO', 'sendtoemailhete');
+define('MAIL_TO', 'sendtoemailhere');
 define('MAIL_TO_NAME', 'send to name here');
 
 
